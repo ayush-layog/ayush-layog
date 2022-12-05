@@ -25,11 +25,6 @@ jbknlkm
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
 
-   <p align="left">
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
 ---
 
 ### 🧰 Languages and Tools
@@ -51,21 +46,6 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-
-#
-
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![How to Improve Efficiency as a Software Developer](https://ytcards.demolab.com/?id=Ov1tuHS4uNw&title=How+to+Improve+Efficiency+as+a+Software+Developer&lang=en&timestamp=1669140023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=535 "How to Improve Efficiency as a Software Developer")](https://www.youtube.com/watch?v=Ov1tuHS4uNw)
-[![How to Build a Minimal Developer Portfolio Website Using React + Tailwind + Vite](https://ytcards.demolab.com/?id=b0pkpcD8Ms4&title=How+to+Build+a+Minimal+Developer+Portfolio+Website+Using+React+%2B+Tailwind+%2B+Vite&lang=en&timestamp=1668434431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=4119 "How to Build a Minimal Developer Portfolio Website Using React + Tailwind + Vite")](https://www.youtube.com/watch?v=b0pkpcD8Ms4)
-[![Command Line Tools ALL Developers Should Know](https://ytcards.demolab.com/?id=DIny00tOBdU&title=Command+Line+Tools+ALL+Developers+Should+Know&lang=en&timestamp=1667250900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=434 "Command Line Tools ALL Developers Should Know")](https://www.youtube.com/watch?v=DIny00tOBdU)
-[![I Built a Minimal Developer Portfolio Using React + Tailwind + Vite](https://ytcards.demolab.com/?id=g9hPa-G3lfw&title=I+Built+a+Minimal+Developer+Portfolio+Using+React+%2B+Tailwind+%2B+Vite&lang=en&timestamp=1666797301&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=725 "I Built a Minimal Developer Portfolio Using React + Tailwind + Vite")](https://www.youtube.com/watch?v=g9hPa-G3lfw)
-[![I Made a Custom GitHub Profile README Portfolio (and you can, too)](https://ytcards.demolab.com/?id=9A8sQZDRn5o&title=I+Made+a+Custom+GitHub+Profile+README+Portfolio+%28and+you+can%2C+too%29&lang=en&timestamp=1663770604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=655 "I Made a Custom GitHub Profile README Portfolio (and you can, too)")](https://www.youtube.com/watch?v=9A8sQZDRn5o)
-[![5 Coding Projects (from beginner to advanced)](https://ytcards.demolab.com/?id=n2B-FClr5rA&title=5+Coding+Projects+%28from+beginner+to+advanced%29&lang=en&timestamp=1663079409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1090 "5 Coding Projects (from beginner to advanced)")](https://www.youtube.com/watch?v=n2B-FClr5rA)
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
 #
 
