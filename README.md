@@ -16,14 +16,13 @@ jbknlkm
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 # 🏄‍♂️ Ayush
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. 
 
 ---
 
@@ -49,14 +48,6 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejoker-ayush_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=thejoker-ayush&theme=gruvbox&border_radius=4.5) -->
-
-#
-
 <details>
  <summary><h3>👨‍💻 Ayush's Journey</h3></summary>
 Being an innately curious child with opening up any machnine I could get my hands on, to building a Van de graff generator, Kelvin water dropper, and Tesla coil as high school projects, to dismantling car and bike engines at SAE workshops at my brother's university, I would like to learn as much as possible for developing 
@@ -66,6 +57,8 @@ As an engineer, my inquisitiveness led me into being involved in multiple teams 
 
 As a physicist, I got involved with the Indian Institute of Astrophysics where I modelled the sky opacity over the Indian Astronomical Observatory, Hanle under different conditions and times using Matlab. Furthermore, as the project head at Physical Research Laboratory, I built the thermal plasma apparatus for the condensation of cometary grains (under room temperature and liquid helium) from scratch, which is then compared to pre-solar grains to get a detailed explanation of the formation of the solar system. Moving on to quantum computing, my thesis project delved into Satellite quantum key distribution, while my study research made me understand quantum computing (learning Cirq and Qiskit) and condensed matter physics with Bose-Einstein condensates. 
 
-Apart from being a nerd, I enjoy dancing, parkour, hiking, and skydiving. I enjoy meeting new people and hearing new perspectives., and I am trying to create a public profile for the same.
+Apart from being a nerd, I enjoy dancing, parkour, hiking, and skydiving. I enjoy meeting new people and hearing new perspectives, and I am trying to create a public profile for the same.
 Instagram:   instagram.com/thejoker.ayush/
 Youtube:     youtube.com/@thejoker-ayush
+
+With a sparkle in my eyes, I am coming for the wonderful opportunities to satiate my curiosity.
