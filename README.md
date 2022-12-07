@@ -59,7 +59,9 @@ As an engineer, my inquisitiveness led me into being involved in multiple teams 
 As a physicist, I got involved with the Indian Institute of Astrophysics where I modelled the sky opacity over the Indian Astronomical Observatory, Hanle under different conditions and times using Matlab. Furthermore, as the project head at Physical Research Laboratory, I built the thermal plasma apparatus for the condensation of cometary grains (under room temperature and liquid helium) from scratch, which is then compared to pre-solar grains to get a detailed explanation of the formation of the solar system. Moving on to quantum computing, my thesis project delved into Satellite quantum key distribution, while my study research made me understand quantum computing (learning Cirq and Qiskit) and condensed matter physics with Bose-Einstein condensates. 
 
 Apart from being a nerd, I enjoy dancing, parkour, hiking, and skydiving. I enjoy meeting new people and hearing new perspectives, and I am trying to create a public profile for the same.
+
 Instagram:   instagram.com/thejoker.ayush/
+
 Youtube:     youtube.com/@thejoker-ayush
 
 With a sparkle in my eyes, I am coming for the wonderful opportunities to satiate my curiosity.
