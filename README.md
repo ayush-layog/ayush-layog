@@ -50,7 +50,8 @@ I'm an indie full-stack developer and content creator building my version of the
 
 <details>
  <summary><h3>👨‍💻 Ayush's Journey</h3></summary>
-Being an innately curious child with opening up any machnine I could get my hands on, to building a Van de graff generator, Kelvin water dropper, and Tesla coil as high school projects, to dismantling car and bike engines at SAE workshops at my brother's university, I would like to learn as much as possible for developing 
+
+ Being an innately curious child with opening up any machnine I could get my hands on, to building a Van de graff generator, Kelvin water dropper, and Tesla coil as high school projects, to dismantling car and bike engines at SAE workshops at my brother's university, I would like to learn as much as possible for developing 
 futuristic technologies. I also started my coding journey as a naive computer science student becoming a full stack software engineer by the time I graduated high school (gold medalist in the International Informatics Olympiad 2010).
 
 As an engineer, my inquisitiveness led me into being involved in multiple teams focussing on structural and thermal analysis of Gokart, Cansat, F1, Mars Rover, UAV and E-Baja vehicle at Delhi Technological University, and Eco vehicle and small rocket design at the University of Strathclyde. I got a glimpse of electronic engineering through the design of a quadcopter for measuring air quality and a CNC machine with CD Drives and rasberry pie, which eventually led me to gain a position in GPM Developers as an automation engineer. My modelling minor projects included working on Python and Matlab, while working independently on C++ for game development and machine learning.
