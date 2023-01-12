@@ -1,23 +1,3 @@
-### Hi there 👋
-
-
-**thejoker-ayush/thejoker-ayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-yfjvbkl
-vcikbn 
-bk
-
-- 🌱 I’m currently learning ...
-jbknlkm
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-
 # 🏄‍♂️ Ayush
 
 **`Problem Solver`**
@@ -47,6 +27,34 @@ I'm an indie full-stack developer and multiskilled engineer delving into the qua
 <br />
 
 #
+<link rel="stylesheet" type="text/css" href="path/to/vertical-timeline.css">
+
+
+<div id="myTimeline">
+    <div data-vtdate="February 2016">
+        My Content 1
+    </div>
+    <div data-vtdate="March 2016">
+        My Content 2
+    </div>
+    <div data-vtdate="April 2016">
+        My Content 3
+    </div>
+</div>
+
+
+
+<script src="path/to/vertical-timeline.min.js"></script>
+
+$('#someIDorClass').verticalTimeline();
+
+$('#myID').verticalTimeline({
+    startLeft: false,
+    alternate: true,
+    animate: "fade",
+    arrows: false
+});
+
 
 <script src="/dist/js/timeline.min.js"></script>
 <link href="/dist/css/timeline.min.css" rel="stylesheet" />
