@@ -20,9 +20,9 @@ jbknlkm
 
 # 🏄‍♂️ Ayush
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Problem Solver`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. 
+I'm an indie full-stack developer and multiskilled engineer delving into the quantum world one step at a time. All projects are built from the ground up, from planning and designing all the way to solving real-life problems. While new to the field of quantum computing, I am looking to contribute towards futuristic technologies while gaining relevant experience.
 
 ---
 
