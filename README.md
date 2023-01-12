@@ -48,6 +48,9 @@ I'm an indie full-stack developer and multiskilled engineer delving into the qua
 
 #
 
+<script src="/dist/js/timeline.min.js"></script>
+<link href="/dist/css/timeline.min.css" rel="stylesheet" />
+
 <div class="timeline">
   <div class="timeline__component">
     <div class="timeline__date timeline__date--right">August 30, 2017</div>
