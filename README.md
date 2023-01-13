@@ -26,97 +26,63 @@ I'm an indie full-stack developer and multiskilled engineer delving into the qua
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
-<link rel="stylesheet" type="text/css" href="path/to/vertical-timeline.css">
+### Education
 
 
-<div id="myTimeline">
-    <div data-vtdate="February 2016">
-        My Content 1
-    </div>
-    <div data-vtdate="March 2016">
-        My Content 2
-    </div>
-    <div data-vtdate="April 2016">
-        My Content 3
-    </div>
-</div>
+<style>
+dl:before {
+    content: ' ';
+    background: #d4d9df;
+    display: inline-block;
+    position: absolute;
+    left: 29px;
+    width: 2px;
+    height: 100%;
+    z-index: 400;
+}
 
+dl > dt:before {
+    content: ' ';
+    background: orange;
+    display: inline-block;
+    position: absolute;
+    border-radius: 50%;
+    border: 3px solid #5e0900; /* was #22c0e8 */
+    left: 22px;
+    width: 10px;
+    height: 10px;
+    z-index: 400;
+}
+</style>
 
+<dl>
+<dt>2013</dt>
+<dd> K.R. Mangalam World School</dd>
 
-<script src="path/to/vertical-timeline.min.js"></script>
+<dd> Central Board of Secondary Education</dd>
 
-$('#someIDorClass').verticalTimeline();
+<dd>Super Scholar and Gold Medalist</dd>
 
-$('#myID').verticalTimeline({
-    startLeft: false,
-    alternate: true,
-    animate: "fade",
-    arrows: false
-});
+<dt>2017</dt>
+<dd> Delhi Technological University</dd>
 
+<dd> Bachelor in Technology</dd>
 
-<script src="/dist/js/timeline.min.js"></script>
-<link href="/dist/css/timeline.min.css" rel="stylesheet" />
+<dd> First Class with Honours</dd>
 
-<div class="timeline">
-  <div class="timeline__component">
-    <div class="timeline__date timeline__date--right">August 30, 2017</div>
-  </div>
-  <div class="timeline__middle">
-    <div class="timeline__point"></div>
-  </div>
-  <div class="timeline__component timeline__component--bg">
-    <h2 class="timeline__title">Published First Video</h2>
-    <p class="timeline__paragraph">
-      My first YouTube video was a tutorial on how to build a client-server sockets app in Java.
-    </p>
-  </div>
-  <div class="timeline__component timeline__component--bg">
-    <h2 class="timeline__title">5,000 Subscribers Q&A</h2>
-    <p class="timeline__paragraph">
-      To celebrate 5,000 subscribers, I published a video answering some of the most popular questions which
-      my viewers had asked me since starting my YouTube channel.
-    </p>
-    <p class="timeline__paragraph">
-      I didn't even remove the jumper in the background before recording that video 🤣
-    </p>
-  </div>
-  <div class="timeline__middle">
-    <div class="timeline__point"></div>
-  </div>
-  <div class="timeline__component">
-    <div class="timeline__date">February 25, 2019</div>
-  </div>
-  <div class="timeline__component">
-    <div class="timeline__date timeline__date--right">June 3, 2020</div>
-  </div>
-  <div class="timeline__middle">
-    <div class="timeline__point"></div>
-  </div>
-  <div class="timeline__component timeline__component--bg">
-    <h2 class="timeline__title">First Live Stream</h2>
-    <p class="timeline__paragraph">
-      In my first ever live stream, I couldn't put my cup of coffee down.
-    </p>
-  </div>
-  <div class="timeline__component timeline__component--bottom timeline__component--bg">
-    <h2 class="timeline__title">Vertical Timeline</h2>
-    <p class="timeline__paragraph">
-      Published this video.
-    </p>
-    <p class="timeline__paragraph">
-      Link to code in description 🔽
-    </p>
-  </div>
-  <div class="timeline__middle">
-    <div class="timeline__point"></div>
-    <div class="timeline__point timeline__point--bottom"></div>
-  </div>
-  <div class="timeline__component timeline__component--bottom">
-    <div class="timeline__date">June 28, 2021</div>
-  </div>
-</div>
+<dt>2018</dt>
+<dd> Indira Gandhi National Open University</dd>
+
+<dd> BSc Physics</dd>
+
+<dd> First Class with Honours</dd>
+
+<dt>2022</dt>
+<dd> University of Strathclyde</dd>
+<dd> MSc Physics</dd>
+<dd> Award - 200/180 credits</dd>
+
+</dl>
 
 ### RELEVANT PROFILE TAGS
 
