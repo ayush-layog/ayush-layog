@@ -100,17 +100,10 @@ I'm an indie full-stack developer and multiskilled engineer delving into the qua
 ### LINGUISTIC SKILLS
 
 <img align="left" alt="English" width="30px" style="padding-right:10px;" src="https://github.com/lipis/flag-icons/blob/8d4410f4eae3e53b5fbca8152b1fd3a02b905063/flags/1x1/gb.svg" title="English"/>
-<img align="left" alt="Hindi" width="30px" style="padding-right:10px;" src="https://github.com/lipis/flag-icons/blob/8d4410f4eae3e53b5fbca8152b1fd3a02b905063/flags/1x1/in.svg"/>
-<img align="left" alt="German" width="30px" style="padding-right:10px;" src="https://github.com/lipis/flag-icons/blob/8d4410f4eae3e53b5fbca8152b1fd3a02b905063/flags/1x1/de.svg"/>
-<img align="left" alt="Spanish" width="30px" style="padding-right:10px;" src="https://github.com/lipis/flag-icons/blob/8d4410f4eae3e53b5fbca8152b1fd3a02b905063/flags/1x1/es.svg"/>
-<img align="left" alt="Greek" width="30px" style="padding-right:10px;" src="https://github.com/lipis/flag-icons/blob/8d4410f4eae3e53b5fbca8152b1fd3a02b905063/flags/1x1/gr.svg"/>
-
->English
->हिन्दी
->Deutsch
->Español
->Ελληνικά
-
+<img align="left" alt="Hindi" width="30px" style="padding-right:10px;" src="https://github.com/lipis/flag-icons/blob/8d4410f4eae3e53b5fbca8152b1fd3a02b905063/flags/1x1/in.svg" title="हिन्दी"/>
+<img align="left" alt="German" width="30px" style="padding-right:10px;" src="https://github.com/lipis/flag-icons/blob/8d4410f4eae3e53b5fbca8152b1fd3a02b905063/flags/1x1/de.svg" title="Deutsch"/>
+<img align="left" alt="Spanish" width="30px" style="padding-right:10px;" src="https://github.com/lipis/flag-icons/blob/8d4410f4eae3e53b5fbca8152b1fd3a02b905063/flags/1x1/es.svg" title="Español"/>
+<img align="left" alt="Greek" width="30px" style="padding-right:10px;" src="https://github.com/lipis/flag-icons/blob/8d4410f4eae3e53b5fbca8152b1fd3a02b905063/flags/1x1/gr.svg" title="Ελληνικά"/>
 
 <details>
  <summary><h3>👨‍💻 Ayush's Journey</h3></summary>
