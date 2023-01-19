@@ -59,15 +59,16 @@ dl > dt:before {
 <dt>2013</dt>
 <dd> K.R. Mangalam World School</dd>
     
-    <sup> Central Board of Secondary Education</sup>
-    
-    <sup>Super Scholar and Gold Medalist</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup> Central Board of Secondary Education</sup>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>Super Scholar and Gold Medalist</sup>
 
 <dt>2017</dt>
 <dd> Delhi Technological University</dd>
 
-<sup> Bachelor in Technology</sup>
-<sup> First Class with Honours</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup> Bachelor in Technology</sup>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup> First Class with Honours</sup>
 
 <dt>2018</dt>
 <dd> Indira Gandhi National Open University</dd>
@@ -78,8 +79,10 @@ dl > dt:before {
 
 <dt>2022</dt>
 <dd> University of Strathclyde</dd>
-<sup> MSc Physics</sup>
-<sup> Award - 200/180 credits</sup>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup> MSc Physics</sup>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup> Award - 200/180 credits</sup>
 
 </dl>
 
