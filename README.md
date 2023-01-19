@@ -89,13 +89,11 @@ I'm an indie full-stack developer and multiskilled engineer delving into the qua
 ### RELEVANT PROFILE TAGS
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Q pro](https://user-images.githubusercontent.com/110907842/213463095-0f4ba950-b750-438b-96aa-f1c02b2422e9.jpg)](https://github.com/thejoker-ayush/Quantum)
+
 <a href= "https://github.com/thejoker-ayush/Quantum"><img src="https://user-images.githubusercontent.com/110907842/213463095-0f4ba950-b750-438b-96aa-f1c02b2422e9.jpg" width="350" title="Quantum profile"></a>
-[![How to Improve Efficiency as a Software Developer](https://ytcards.demolab.com/?id=Ov1tuHS4uNw&title=How+to+Improve+Efficiency+as+a+Software+Developer&lang=en&timestamp=1669140023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=535 "How to Improve Efficiency as a Software Developer")](https://www.youtube.com/watch?v=Ov1tuHS4uNw)
-[![How to Build a Minimal Developer Portfolio Website Using React + Tailwind + Vite](https://ytcards.demolab.com/?id=b0pkpcD8Ms4&title=How+to+Build+a+Minimal+Developer+Portfolio+Website+Using+React+%2B+Tailwind+%2B+Vite&lang=en&timestamp=1668434431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=4119 "How to Build a Minimal Developer Portfolio Website Using React + Tailwind + Vite")](https://www.youtube.com/watch?v=b0pkpcD8Ms4)
-[![Command Line Tools ALL Developers Should Know](https://ytcards.demolab.com/?id=DIny00tOBdU&title=Command+Line+Tools+ALL+Developers+Should+Know&lang=en&timestamp=1667250900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=434 "Command Line Tools ALL Developers Should Know")](https://www.youtube.com/watch?v=DIny00tOBdU)
-[![I Built a Minimal Developer Portfolio Using React + Tailwind + Vite](https://ytcards.demolab.com/?id=g9hPa-G3lfw&title=I+Built+a+Minimal+Developer+Portfolio+Using+React+%2B+Tailwind+%2B+Vite&lang=en&timestamp=1666797301&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=725 "I Built a Minimal Developer Portfolio Using React + Tailwind + Vite")](https://www.youtube.com/watch?v=g9hPa-G3lfw)
-[![I Made a Custom GitHub Profile README Portfolio (and you can, too)](https://ytcards.demolab.com/?id=9A8sQZDRn5o&title=I+Made+a+Custom+GitHub+Profile+README+Portfolio+%28and+you+can%2C+too%29&lang=en&timestamp=1663770604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=655 "I Made a Custom GitHub Profile README Portfolio (and you can, too)")](https://www.youtube.com/watch?v=9A8sQZDRn5o)
+<a href= "https://github.com/thejoker-ayush/Mechanical"><img src="https://user-images.githubusercontent.com/110907842/213463280-d05011bf-fdc5-4ef5-8709-fd5a63d3d1f4.jpg" width="350" title="Mechanical profile"></a>
+<a href= "https://github.com/thejoker-ayush/Electronic"><img src="https://user-images.githubusercontent.com/110907842/213463337-831f3b2a-c4d5-48a1-8ecd-217d668723b1.jpg" width="350" title="Electronic profile"></a>
+<a href= "https://github.com/thejoker-ayush/Coding"><img src="https://user-images.githubusercontent.com/110907842/213463381-78f3c777-eee7-4f4f-b9dd-d9199a78643c.jpg" width="350" title="Coding profile"></a>
 <!-- END YOUTUBE-CARDS -->
 
 
