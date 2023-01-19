@@ -58,7 +58,9 @@ dl > dt:before {
 <dl>
 <dt>2013</dt>
 <dd> K.R. Mangalam World School</dd>
+    
     <sup> Central Board of Secondary Education</sup>
+    
     <sup>Super Scholar and Gold Medalist</sup>
 
 <dt>2017</dt>
