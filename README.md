@@ -106,6 +106,7 @@ I'm an indie full-stack developer and multiskilled engineer delving into the qua
 <img align="left" alt="Greek" width="30px" style="padding-right:10px;" src="https://github.com/lipis/flag-icons/blob/8d4410f4eae3e53b5fbca8152b1fd3a02b905063/flags/1x1/gr.svg" title="Ελληνικά"/>
 
 <br>
+---
 
 <details>
  <summary><h3>👨‍💻 Ayush's Journey</h3></summary>
