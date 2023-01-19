@@ -99,6 +99,8 @@ I'm an indie full-stack developer and multiskilled engineer delving into the qua
 
 ### LINGUISTIC SKILLS
 
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="flags/1x1/in.svg"/>
+
 >English
 >हिन्दी
 >Deutsch
