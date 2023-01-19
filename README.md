@@ -66,21 +66,20 @@ dl > dt:before {
 <dt>2017</dt>
 <dd> Delhi Technological University</dd>
 
-<dd><sub><sup> Bachelor in Technology<\sup><\sub></dd>
-
-<dd> First Class with Honours</dd>
+<sup> Bachelor in Technology</sup>
+<sup> First Class with Honours</sup>
 
 <dt>2018</dt>
 <dd> Indira Gandhi National Open University</dd>
 
-<dd> BSc Physics</dd>
+<sup> BSc Physics</sup>
 
-<dd> First Class with Honours</dd>
+<sup> First Class with Honours</sup>
 
 <dt>2022</dt>
 <dd> University of Strathclyde</dd>
-<dd> MSc Physics</dd>
-<dd> Award - 200/180 credits</dd>
+<sup> MSc Physics</sup>
+<sup> Award - 200/180 credits</sup>
 
 </dl>
 
