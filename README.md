@@ -59,14 +59,14 @@ dl > dt:before {
 <dt>2013</dt>
 <dd> K.R. Mangalam World School</dd>
 
-<dd> Central Board of Secondary Education</dd>
+<dd><sub> Central Board of Secondary Education<\sub></dd>
 
-<dd>Super Scholar and Gold Medalist</dd>
+<dd><sup>Super Scholar and Gold Medalist<\sup></dd>
 
 <dt>2017</dt>
 <dd> Delhi Technological University</dd>
 
-<dd> Bachelor in Technology</dd>
+<dd><sub><sup> Bachelor in Technology<\sup><\sub></dd>
 
 <dd> First Class with Honours</dd>
 
