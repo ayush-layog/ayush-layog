@@ -30,7 +30,7 @@ I'm an indie full-stack developer and multiskilled engineer delving into the qua
 
 
 <style>
-dl:before {
+.dl:before {
     content: ' ';
     background: #d4d9df;
     display: inline-block;
@@ -41,7 +41,7 @@ dl:before {
     z-index: 400;
 }
 
-dl > dt:before {
+.dl > dt:before {
     content: ' ';
     background: orange;
     display: inline-block;
