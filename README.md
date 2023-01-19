@@ -26,34 +26,19 @@ I'm an indie full-stack developer and multiskilled engineer delving into the qua
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+### RELEVANT PROFILE TAGS
+
+<!-- BEGIN YOUTUBE-CARDS -->
+
+<a href= "https://github.com/thejoker-ayush/Quantum"><img src="https://user-images.githubusercontent.com/110907842/213463095-0f4ba950-b750-438b-96aa-f1c02b2422e9.jpg" width="350" title="Quantum profile"></a>
+<a href= "https://github.com/thejoker-ayush/Mechanical"><img src="https://user-images.githubusercontent.com/110907842/213463280-d05011bf-fdc5-4ef5-8709-fd5a63d3d1f4.jpg" width="350" title="Mechanical profile"></a>
+<a href= "https://github.com/thejoker-ayush/Electronic"><img src="https://user-images.githubusercontent.com/110907842/213463337-831f3b2a-c4d5-48a1-8ecd-217d668723b1.jpg" width="350" title="Electronic profile"></a>
+<a href= "https://github.com/thejoker-ayush/Coding"><img src="https://user-images.githubusercontent.com/110907842/213463381-78f3c777-eee7-4f4f-b9dd-d9199a78643c.jpg" width="350" title="Coding profile"></a>
+<!-- END YOUTUBE-CARDS -->
+
+
 ### Education
 
-
-<div style>
-.dl:before {
-    content: ' ';
-    background: #d4d9df;
-    display: inline-block;
-    position: absolute;
-    left: 29px;
-    width: 2px;
-    height: 100%;
-    z-index: 400;
-}
-
-.dl > dt:before {
-    content: ' ';
-    background: orange;
-    display: inline-block;
-    position: absolute;
-    border-radius: 50%;
-    border: 3px solid #5e0900; /* was #22c0e8 */
-    left: 22px;
-    width: 10px;
-    height: 10px;
-    z-index: 400;
-}
-</div>
 
 <dl>
 <dt>2013</dt>
@@ -85,16 +70,6 @@ I'm an indie full-stack developer and multiskilled engineer delving into the qua
 &nbsp;&nbsp;&nbsp;&nbsp;<sup> Award - 200/180 credits</sup>
 
 </dl>
-
-### RELEVANT PROFILE TAGS
-
-<!-- BEGIN YOUTUBE-CARDS -->
-
-<a href= "https://github.com/thejoker-ayush/Quantum"><img src="https://user-images.githubusercontent.com/110907842/213463095-0f4ba950-b750-438b-96aa-f1c02b2422e9.jpg" width="350" title="Quantum profile"></a>
-<a href= "https://github.com/thejoker-ayush/Mechanical"><img src="https://user-images.githubusercontent.com/110907842/213463280-d05011bf-fdc5-4ef5-8709-fd5a63d3d1f4.jpg" width="350" title="Mechanical profile"></a>
-<a href= "https://github.com/thejoker-ayush/Electronic"><img src="https://user-images.githubusercontent.com/110907842/213463337-831f3b2a-c4d5-48a1-8ecd-217d668723b1.jpg" width="350" title="Electronic profile"></a>
-<a href= "https://github.com/thejoker-ayush/Coding"><img src="https://user-images.githubusercontent.com/110907842/213463381-78f3c777-eee7-4f4f-b9dd-d9199a78643c.jpg" width="350" title="Coding profile"></a>
-<!-- END YOUTUBE-CARDS -->
 
 
 ### LINGUISTIC SKILLS
