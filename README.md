@@ -89,7 +89,7 @@ I'm an indie full-stack developer and multiskilled engineer delving into the qua
 ### RELEVANT PROFILE TAGS
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![The Right Way to Build an MVP](https://github.com/thejoker-ayush/thejoker-ayush/issues/1#issue-1549234512)](https://github.com/thejoker-ayush/Quantum)
+[![The Right Way to Build an MVP]![Q pro](https://user-images.githubusercontent.com/110907842/213463095-0f4ba950-b750-438b-96aa-f1c02b2422e9.jpg)](https://github.com/thejoker-ayush/Quantum)
 [![How to Improve Efficiency as a Software Developer](https://ytcards.demolab.com/?id=Ov1tuHS4uNw&title=How+to+Improve+Efficiency+as+a+Software+Developer&lang=en&timestamp=1669140023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=535 "How to Improve Efficiency as a Software Developer")](https://www.youtube.com/watch?v=Ov1tuHS4uNw)
 [![How to Build a Minimal Developer Portfolio Website Using React + Tailwind + Vite](https://ytcards.demolab.com/?id=b0pkpcD8Ms4&title=How+to+Build+a+Minimal+Developer+Portfolio+Website+Using+React+%2B+Tailwind+%2B+Vite&lang=en&timestamp=1668434431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=4119 "How to Build a Minimal Developer Portfolio Website Using React + Tailwind + Vite")](https://www.youtube.com/watch?v=b0pkpcD8Ms4)
 [![Command Line Tools ALL Developers Should Know](https://ytcards.demolab.com/?id=DIny00tOBdU&title=Command+Line+Tools+ALL+Developers+Should+Know&lang=en&timestamp=1667250900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=434 "Command Line Tools ALL Developers Should Know")](https://www.youtube.com/watch?v=DIny00tOBdU)
