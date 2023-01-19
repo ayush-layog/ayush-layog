@@ -72,9 +72,9 @@ dl > dt:before {
 <dt>2018</dt>
 <dd> Indira Gandhi National Open University</dd>
 
-&nbsp;&nbsp;<sup> BSc Physics</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup> BSc Physics</sup>
 
-&nbsp;&nbsp;<sup> First Class with Honours</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup> First Class with Honours</sup>
 
 <dt>2022</dt>
 <dd> University of Strathclyde</dd>
