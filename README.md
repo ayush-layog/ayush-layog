@@ -97,6 +97,14 @@ I'm an indie full-stack developer and multiskilled engineer delving into the qua
 <!-- END YOUTUBE-CARDS -->
 
 
+### LINGUISTIC SKILLS
+
+>English
+>हिन्दी
+>Deutsch
+>Español
+>Ελληνικά
+
 
 <details>
  <summary><h3>👨‍💻 Ayush's Journey</h3></summary>
