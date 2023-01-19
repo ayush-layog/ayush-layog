@@ -53,7 +53,7 @@ I'm an indie full-stack developer and multiskilled engineer delving into the qua
     height: 10px;
     z-index: 400;
 }
-
+</div>
 
 <dl>
 <dt>2013</dt>
@@ -85,7 +85,7 @@ I'm an indie full-stack developer and multiskilled engineer delving into the qua
 &nbsp;&nbsp;&nbsp;&nbsp;<sup> Award - 200/180 credits</sup>
 
 </dl>
-</div>
+
 ### RELEVANT PROFILE TAGS
 
 <!-- BEGIN YOUTUBE-CARDS -->
