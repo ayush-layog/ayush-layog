@@ -4,6 +4,8 @@
 
 I'm an indie full-stack developer and multiskilled engineer delving into the quantum world one step at a time. All projects are built from the ground up, from planning and designing all the way to solving real-life problems. While new to the field of quantum computing, I am looking to contribute towards futuristic technologies while gaining relevant experience.
 
+Character is key.
+
 ---
 
 ### 🧰 Languages and Tools
