@@ -58,14 +58,14 @@ Principal Ideology: Character is the utmost virtue.
 &nbsp;&nbsp;&nbsp;&nbsp;<sup> First Class with Honours</sup>
 
 <dt>2018</dt>
-<dd> Indira Gandhi National Open University  <img align="right" width="50" height="50" src="https://user-images.githubusercontent.com/110907842/218125088-ee5976cf-244a-49b8-81ee-a0062848f2a6.png"></dd>
+<dd> Indira Gandhi National Open University  <img align="right" width="50" height="30" src="https://user-images.githubusercontent.com/110907842/218125088-ee5976cf-244a-49b8-81ee-a0062848f2a6.png"></dd>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup> BSc Physics</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup> First Class with Honours</sup>
 
 <dt>2022</dt>
-<dd> University of Strathclyde  <img align="right" width="50" height="50" src="https://user-images.githubusercontent.com/110907842/218125251-5097befc-f878-4813-b85b-3e0b80a9843d.jpeg"></dd>
+<dd> University of Strathclyde  <img align="right" width="50" height="30" src="https://user-images.githubusercontent.com/110907842/218125251-5097befc-f878-4813-b85b-3e0b80a9843d.jpeg"></dd>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup> MSc Physics</sup>
 
