@@ -44,28 +44,28 @@ Principal Ideology: Character is the utmost virtue.
 
 <dl>
 <dt>2013</dt>
-<dd> K.R. Mangalam World School</dd>
+<dd> K.R. Mangalam World School  <img align="right" width="50" height="50" src="https://user-images.githubusercontent.com/110907842/218124598-8d3024a3-4016-4107-8c5f-60901f1bc423.jpg"> </dd>
     
 &nbsp;&nbsp;&nbsp;&nbsp;<sup> Central Board of Secondary Education</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>Super Scholar and Gold Medalist</sup>
 
 <dt>2017</dt>
-<dd> Delhi Technological University</dd>
+<dd> Delhi Technological University  <img align="right" width="50" height="50" src="https://user-images.githubusercontent.com/110907842/218124937-798a43a2-7474-48f1-9d84-cc3b9ee0930b.png"></dd>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup> Bachelor in Technology</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup> First Class with Honours</sup>
 
 <dt>2018</dt>
-<dd> Indira Gandhi National Open University</dd>
+<dd> Indira Gandhi National Open University  <img align="right" width="50" height="50" src="https://user-images.githubusercontent.com/110907842/218125088-ee5976cf-244a-49b8-81ee-a0062848f2a6.png"></dd>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup> BSc Physics</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup> First Class with Honours</sup>
 
 <dt>2022</dt>
-<dd> University of Strathclyde</dd>
+<dd> University of Strathclyde  <img align="right" width="50" height="50" src="https://user-images.githubusercontent.com/110907842/218125251-5097befc-f878-4813-b85b-3e0b80a9843d.jpeg"></dd>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup> MSc Physics</sup>
 
