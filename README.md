@@ -30,6 +30,8 @@ Principal Ideology: Character is the utmost virtue.
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+---
+
 ### RELEVANT PROFILE TAGS
 
 <!-- BEGIN YOUTUBE-CARDS -->
