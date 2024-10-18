@@ -8,9 +8,9 @@ My goal is to develop scalable fault-tolerant quantum computers for commercial u
 
 Principal Ideology: Character is the utmost virtue.
 
----
 
 ### 🧰 Languages and Tools
+---
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -30,9 +30,9 @@ Principal Ideology: Character is the utmost virtue.
 
 <br />
 
----
 
 ### RELEVANT PROFILE TAGS
+---
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
@@ -44,7 +44,7 @@ Principal Ideology: Character is the utmost virtue.
 
 
 ### Education
-
+---
 
 <dl>
 <dt>2013</dt>
@@ -79,6 +79,7 @@ Principal Ideology: Character is the utmost virtue.
 
 
 ### LINGUISTIC SKILLS
+---
 
 <img align="left" alt="English" width="30px" style="padding-right:10px;" src="https://github.com/lipis/flag-icons/blob/8d4410f4eae3e53b5fbca8152b1fd3a02b905063/flags/1x1/gb.svg" title="English"/>
 <img align="left" alt="Hindi" width="30px" style="padding-right:10px;" src="https://github.com/lipis/flag-icons/blob/8d4410f4eae3e53b5fbca8152b1fd3a02b905063/flags/1x1/in.svg" title="हिन्दी"/>
