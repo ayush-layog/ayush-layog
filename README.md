@@ -2,7 +2,9 @@
 
 **`Problem Solver`**
 
-I'm an indie full-stack developer and multiskilled engineer delving into the quantum world one step at a time. All projects are built from the ground up, from planning and designing all the way to solving real-life problems. While new to the field of quantum computing, I am looking to contribute towards futuristic technologies while gaining relevant experience.
+A man's worth is no greater than his ambitions. 
+
+My goal is to develop scalable fault-tolerant quantum computers for commercial use, and thus I have delved into the different approaches to quantum computing, from the superconducting and trapped ion approaches to the spin qubit approach. Along the way, I created a few files to better understand this field of quantum computing. I am a multi-skilled engineer delving into the quantum world one step at a time. I believe quantum technologies will revolutionize the world and I want to take part in it.
 
 Principal Ideology: Character is the utmost virtue.
 
